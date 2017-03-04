@@ -14,3 +14,6 @@ See [docs](https://aureooms.github.io/js-fliplist/index.html).
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-fliplist.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-fliplist)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-fliplist.svg?style=flat)](https://github.com/aureooms/js-fliplist/issues)
 [![Documentation](https://aureooms.github.io/js-fliplist/badge.svg)](https://aureooms.github.io/js-fliplist/source.html)
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/aureooms/js-fliplist.svg)](https://greenkeeper.io/)
