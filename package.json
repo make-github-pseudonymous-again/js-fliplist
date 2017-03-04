@@ -1,0 +1,50 @@
+{
+  "name": "@aureooms/js-fliplist",
+  "description": "Flip list data structure for JavaScript",
+  "version": "0.0.0",
+  "author": "aureooms",
+  "ava": {
+    "require": [
+      "babel-polyfill",
+      "babel-register"
+    ]
+  },
+  "babel": {
+    "presets": [
+      "latest"
+    ],
+    "env": {
+      "development": {
+        "sourceMaps": "inline"
+      }
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/aureooms/js-fliplist/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "babel-cli": "^6.18.0",
+    "babel-polyfill": "^6.16.0",
+    "babel-preset-latest": "^6.16.0",
+    "codeclimate-test-reporter": "^0.4.0",
+    "coveralls": "^2.11.14",
+    "esdoc": "^0.4.8",
+    "nyc": "^8.4.0"
+  },
+  "homepage": "https://aureooms.github.io/js-fliplist",
+  "keywords": ["delete", "flip", "insert", "iterator", "linked", "list", "merge", "reverse"],
+  "license": "AGPL-3.0",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aureooms/js-fliplist"
+  },
+  "scripts": {
+    "build": "rm -rf lib && babel src -d lib",
+    "cover": "nyc --reporter=lcov npm test",
+    "prepublish": "npm run build",
+    "test": "ava ./test/src"
+  }
+}
