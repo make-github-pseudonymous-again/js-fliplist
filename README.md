@@ -4,6 +4,16 @@
 Flip list data structure for JavaScript.
 See [docs](https://aureooms.github.io/js-fliplist/index.html).
 
+```js
+const a = new FlipList( range(10000) );
+const b = new FlipList( range(1, 20001) );
+b.reverse();
+a.extend(b);
+a.reverse();
+a.reversebetween(a.begin().next(), a.end().prev());
+[...a]; 1, 1, 2, ..., 9999, 20000, ..., 3, 2, 0
+```
+
 [![License](https://img.shields.io/github/license/aureooms/js-fliplist.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-fliplist/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-fliplist.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-fliplist)
 [![Build status](https://img.shields.io/travis/aureooms/js-fliplist.svg?style=flat)](https://travis-ci.org/aureooms/js-fliplist)
