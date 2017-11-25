@@ -1,130 +1,111 @@
-// when traversing a node, make it valid again and update direction
-// or use union find ds
-
 import { Node } from './Node' ;
-import { ValidityToken } from './ValidityToken' ;
-import { Direction } from './Direction' ;
+import { Iterator } from './Iterator' ;
 
-export class FlipList {
+export default class FlipList {
 
-	constructor () {
+	constructor ( iterable = null ) {
+		/**
+		 *  head  -> tail
+		 *    |        |
+		 *  rtail <- rhead
+		 */
+		this.head = new Node(null);
+		this.rtail = new Node(null);
+		this.tail = new Node(null);
+		this.rhead = new Node(null);
+		this.head.sibling = this.rtail;
+		this.rtail.sibling = this.head;
+		this.rhead.sibling = this.tail;
+		this.tail.sibling = this.rhead;
+		this.head.next = this.tail;
+		this.rhead.next = this.rtail;
 
-		this.head = new Node(null, null, null);
-		this.tail = new Node(this.head, null, null);
-		this.head.fw = this.tail;
+		if ( iterable ) for ( const value of iterable ) this.append(value);
+	}
 
-		this.fd = new Direction(false);
-		this.bd = new Direction(true);
-		this.validity = new ValidityToken(true);
+	reverse ( ) {
+		const head = this.head;
+		const tail = this.tail;
+		this.head = this.rhead;
+		this.tail = this.rtail;
+		this.rhead = head;
+		this.rtail = tail;
+	}
+
+	reversebetween ( itleft , itright ) {
+
+		const left = itleft.node;
+		const right = itright.node;
+
+		left.sibling.next.sibling.next = right.sibling.next;
+		right.sibling.next.sibling.next = left.sibling.next;
+		right.sibling.next = left;
+		left.sibling.next = right;
 
 	}
 
-	first ( ) {
-		return this.head.bw !== null ? this.head.bw : this.head.fw ;
+	*[Symbol.iterator] ( ) {
+		let node = this.head;
+		while (node.next !== this.tail) {
+			node = node.next;
+			yield node.value;
+		}
 	}
 
-	last ( ) {
-		return this.tail.bw !== null ? this.tail.bw : this.tail.fw ;
+	prepend ( value ) {
+
+		const forward = new Node(value);
+		const backward = new Node(value);
+
+		forward.next = this.head.next;
+		backward.next = this.rtail;
+
+		forward.sibling = backward;
+		backward.sibling = forward;
+
+		this.head.next = forward;
+		forward.next.sibling.next = backward;
+
+	}
+
+	append ( value ) {
+
+		const forward = new Node(value);
+		const backward = new Node(value);
+
+		forward.next = this.tail;
+		backward.next = this.rhead.next;
+
+		forward.sibling = backward;
+		backward.sibling = forward;
+
+		this.rhead.next = backward;
+		backward.next.sibling.next = forward;
+
+	}
+
+	extend ( other ) {
+		this.rhead.next.sibling.next = other.head.next;
+		other.head.next.sibling.next = this.rhead.next;
+
+		this.tail = other.tail;
+		this.rhead = other.rhead;
 	}
 
 	begin ( ) {
-		return new Iterator(this, this.head, null, false);
-	}
-
-	end ( ) {
-		return new Iterator(this, this.tail, null, false);
+		return new Iterator( this.head.next ) ;
 	}
 
 	rbegin ( ) {
-		return new ReverseIterator(this, this.tail, null, false);
+		return new Iterator( this.rhead.next ) ;
+	}
+
+	end ( ) {
+		return new Iterator( this.tail ) ;
 	}
 
 	rend ( ) {
-		return new ReverseIterator(this, this.head, null, false);
-	}
-
-	// assert valid
-	insert_before (node, value) {
-
-	}
-
-	// assert valid
-	insert_after (node, value) {
-
-	}
-
-	append (value) {
-
-		const last = this.last();
-		const tail = this.tail;
-		const node = new Node(last, tail, value);
-
-		if (last.bw === tail) last.bw = node;
-		else last.fw = node;
-
-		if (tail.bw !== null) tail.bw = node;
-		else tail.fw = node;
-
-		return node;
-
-	}
-
-	prepend (value) {
-
-		const first = this.first();
-		const head = this.head;
-		const node = new Node(head, first, value);
-
-		if (first.bw === head) first.bw = node;
-		else first.fw = node;
-
-		if (head.bw !== null) head.bw = node;
-		else head.fw = node;
-
-		return node;
-
-	}
-
-	extend (other) {
-
-		// invalidate all iterators to nodes in other list
-		other.valid = false;
-
-		// compute last element of this === previous of this.tail
-		const thislast = this.last() ;
-		// compute first element of other === next of other.head
-		const otherfirst = other.first() ;
-		// compute last element of other === previous of other.tail
-		const otherlast = other.last() ;
-
-		// make thislast next point to otherfirst
-		if (thislast.bw === this.tail) thislast.bw = otherfirst;
-		else thislast.fw = otherfirst;
-
-		// make otherfirst prev point to thislast
-		if (otherfirst.bw === other.head) otherfirst.bw = thislast;
-		else otherfirst.fw = thislast;
-
-		// make this.tail prev point to otherlast
-		if (this.tail.bw !== null) this.tail.bw = otherlast;
-		else this.tail.fw = otherlast;
-
-		// make otherlast next point to this.tail
-		if (otherlast.bw === other.tail) otherlast.bw = this.tail;
-		else otherlast.fw = this.tail;
-
-	}
-
-	reverse () {
-
-		// reverse head and tail pointers
-		const head = this.head;
-		this.head = this.tail;
-		this.tail = head;
-
-		// reverse iterator directions
-		this.reversed = !this.reversed;
-
+		return new Iterator( this.rtail ) ;
 	}
 
 }

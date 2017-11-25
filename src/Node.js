@@ -1,9 +1,9 @@
 
 export class Node {
 
-	constructor (left, right, value){
-		this.fw = left;
-		this.bw = right;
+	constructor ( value ) {
+		this.next = null;
+		this.sibling = null;
 		this.value = value;
 	}
 
