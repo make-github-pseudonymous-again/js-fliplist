@@ -1,0 +1,181 @@
+{
+  "coverage": "0.97%",
+  "expectCount": 103,
+  "actualCount": 1,
+  "files": {
+    "src/FlipList.js": {
+      "expectCount": 16,
+      "actualCount": 1,
+      "undocumentLines": [
+        4,
+        6,
+        13,
+        14,
+        15,
+        26,
+        35,
+        47,
+        55,
+        71,
+        87,
+        95,
+        99,
+        103,
+        107
+      ]
+    },
+    "src/Iterator.js": {
+      "expectCount": 9,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        4,
+        5,
+        8,
+        12,
+        16,
+        20,
+        24,
+        34
+      ]
+    },
+    "src/Node.js": {
+      "expectCount": 5,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "src/old/Direction.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        4,
+        5
+      ]
+    },
+    "src/old/EndpointIterator.js": {
+      "expectCount": 9,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        16
+      ]
+    },
+    "src/old/FlipList.js": {
+      "expectCount": 20,
+      "actualCount": 0,
+      "undocumentLines": [
+        8,
+        10,
+        12,
+        13,
+        16,
+        17,
+        18,
+        22,
+        26,
+        30,
+        34,
+        38,
+        42,
+        47,
+        52,
+        56,
+        72,
+        88,
+        118,
+        126
+      ]
+    },
+    "src/old/InternalIterator.js": {
+      "expectCount": 11,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        14,
+        18
+      ]
+    },
+    "src/old/Iterator2.js": {
+      "expectCount": 7,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11
+      ]
+    },
+    "src/old/Iterator3.js": {
+      "expectCount": 7,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11
+      ]
+    },
+    "src/old/Node.js": {
+      "expectCount": 5,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "src/old/ReverseIterator.js": {
+      "expectCount": 8,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11,
+        15
+      ]
+    },
+    "src/old/ValidityToken.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        4,
+        5
+      ]
+    }
+  }
+}

@@ -1,0 +1,2630 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/FlipList.js",
+    "content": "import { Node } from './Node' ;\nimport { Iterator } from './Iterator' ;\n\nexport default class FlipList {\n\n\tconstructor ( iterable = null ) {\n\t\t/**\n\t\t *  head  -> tail\n\t\t *    |        |\n\t\t *  rtail <- rhead\n\t\t */\n\t\tthis.head = new Node(null);\n\t\tthis.rtail = new Node(null);\n\t\tthis.tail = new Node(null);\n\t\tthis.rhead = new Node(null);\n\t\tthis.head.sibling = this.rtail;\n\t\tthis.rtail.sibling = this.head;\n\t\tthis.rhead.sibling = this.tail;\n\t\tthis.tail.sibling = this.rhead;\n\t\tthis.head.next = this.tail;\n\t\tthis.rhead.next = this.rtail;\n\n\t\tif ( iterable ) for ( const value of iterable ) this.append(value);\n\t}\n\n\treverse ( ) {\n\t\tconst head = this.head;\n\t\tconst tail = this.tail;\n\t\tthis.head = this.rhead;\n\t\tthis.tail = this.rtail;\n\t\tthis.rhead = head;\n\t\tthis.rtail = tail;\n\t}\n\n\treversebetween ( itleft , itright ) {\n\n\t\tconst left = itleft.node;\n\t\tconst right = itright.node;\n\n\t\tleft.sibling.next.sibling.next = right.sibling.next;\n\t\tright.sibling.next.sibling.next = left.sibling.next;\n\t\tright.sibling.next = left;\n\t\tleft.sibling.next = right;\n\n\t}\n\n\t*[Symbol.iterator] ( ) {\n\t\tlet node = this.head;\n\t\twhile (node.next !== this.tail) {\n\t\t\tnode = node.next;\n\t\t\tyield node.value;\n\t\t}\n\t}\n\n\tprepend ( value ) {\n\n\t\tconst forward = new Node(value);\n\t\tconst backward = new Node(value);\n\n\t\tforward.next = this.head.next;\n\t\tbackward.next = this.rtail;\n\n\t\tforward.sibling = backward;\n\t\tbackward.sibling = forward;\n\n\t\tthis.head.next = forward;\n\t\tforward.next.sibling.next = backward;\n\n\t}\n\n\tappend ( value ) {\n\n\t\tconst forward = new Node(value);\n\t\tconst backward = new Node(value);\n\n\t\tforward.next = this.tail;\n\t\tbackward.next = this.rhead.next;\n\n\t\tforward.sibling = backward;\n\t\tbackward.sibling = forward;\n\n\t\tthis.rhead.next = backward;\n\t\tbackward.next.sibling.next = forward;\n\n\t}\n\n\textend ( other ) {\n\t\tthis.rhead.next.sibling.next = other.head.next;\n\t\tother.head.next.sibling.next = this.rhead.next;\n\n\t\tthis.tail = other.tail;\n\t\tthis.rhead = other.rhead;\n\t}\n\n\tbegin ( ) {\n\t\treturn new Iterator( this.head.next ) ;\n\t}\n\n\trbegin ( ) {\n\t\treturn new Iterator( this.rhead.next ) ;\n\t}\n\n\tend ( ) {\n\t\treturn new Iterator( this.tail ) ;\n\t}\n\n\trend ( ) {\n\t\treturn new Iterator( this.rtail ) ;\n\t}\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/src/FlipList.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "class",
+    "name": "FlipList",
+    "memberof": "src/FlipList.js",
+    "static": true,
+    "longname": "src/FlipList.js~FlipList",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-fliplist/src/FlipList.js",
+    "importStyle": "FlipList",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 50,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "member",
+    "name": "head",
+    "memberof": "src/FlipList.js~FlipList",
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#head",
+    "access": "public",
+    "description": " head  -> tail\n   |        |\n rtail <- rhead",
+    "lineNumber": 12,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "member",
+    "name": "rtail",
+    "memberof": "src/FlipList.js~FlipList",
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#rtail",
+    "access": "public",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "member",
+    "name": "tail",
+    "memberof": "src/FlipList.js~FlipList",
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#tail",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "member",
+    "name": "rhead",
+    "memberof": "src/FlipList.js~FlipList",
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#rhead",
+    "access": "public",
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "method",
+    "name": "reverse",
+    "memberof": "src/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#reverse",
+    "access": "public",
+    "description": null,
+    "lineNumber": 26,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 60,
+    "kind": "method",
+    "name": "reversebetween",
+    "memberof": "src/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#reversebetween",
+    "access": "public",
+    "description": null,
+    "lineNumber": 35,
+    "undocument": true,
+    "params": [
+      {
+        "name": "itleft",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "itright",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 61,
+    "kind": "method",
+    "name": "[Symbol.iterator]",
+    "memberof": "src/FlipList.js~FlipList",
+    "generator": true,
+    "async": false,
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#[Symbol.iterator]",
+    "access": "public",
+    "description": null,
+    "lineNumber": 47,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 62,
+    "kind": "method",
+    "name": "prepend",
+    "memberof": "src/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#prepend",
+    "access": "public",
+    "description": null,
+    "lineNumber": 55,
+    "undocument": true,
+    "params": [
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 63,
+    "kind": "method",
+    "name": "append",
+    "memberof": "src/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#append",
+    "access": "public",
+    "description": null,
+    "lineNumber": 71,
+    "undocument": true,
+    "params": [
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 64,
+    "kind": "method",
+    "name": "extend",
+    "memberof": "src/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#extend",
+    "access": "public",
+    "description": null,
+    "lineNumber": 87,
+    "undocument": true,
+    "params": [
+      {
+        "name": "other",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 67,
+    "kind": "method",
+    "name": "begin",
+    "memberof": "src/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#begin",
+    "access": "public",
+    "description": null,
+    "lineNumber": 95,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 68,
+    "kind": "method",
+    "name": "rbegin",
+    "memberof": "src/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#rbegin",
+    "access": "public",
+    "description": null,
+    "lineNumber": 99,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "method",
+    "name": "end",
+    "memberof": "src/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#end",
+    "access": "public",
+    "description": null,
+    "lineNumber": 103,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "method",
+    "name": "rend",
+    "memberof": "src/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/FlipList.js~FlipList#rend",
+    "access": "public",
+    "description": null,
+    "lineNumber": 107,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "file",
+    "name": "src/Iterator.js",
+    "content": "\nexport class Iterator {\n\n\tconstructor ( node ) {\n\t\tthis.node = node;\n\t}\n\n\tnext ( ) {\n\t\treturn new Iterator( this.node.next ) ;\n\t}\n\n\tprev ( ) {\n\t\treturn new Iterator( this.node.sibling.next.sibling ) ;\n\t}\n\n\tvalue ( ) {\n\t\treturn this.node.value ;\n\t}\n\n\treversed ( ) {\n\t\treturn new Iterator( this.node.sibling ) ;\n\t}\n\n\tskip ( n ) {\n\n\t\tlet node = this.node;\n\n\t\tfor ( let i = 0 ; i < n ; ++i ) node = node.next;\n\n\t\treturn new Iterator( node ) ;\n\n\t}\n\n\trewind ( n ) {\n\n\t\tlet node = this.node.sibling;\n\n\t\tfor ( let i = 0 ; i < n ; ++i ) node = node.next;\n\n\t\treturn new Iterator( node.sibling ) ;\n\n\t}\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/src/Iterator.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 72,
+    "kind": "class",
+    "name": "Iterator",
+    "memberof": "src/Iterator.js",
+    "static": true,
+    "longname": "src/Iterator.js~Iterator",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-fliplist/src/Iterator.js",
+    "importStyle": "{Iterator}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 73,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/Iterator.js~Iterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Iterator.js~Iterator#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true
+  },
+  {
+    "__docId__": 74,
+    "kind": "member",
+    "name": "node",
+    "memberof": "src/Iterator.js~Iterator",
+    "static": false,
+    "longname": "src/Iterator.js~Iterator#node",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "method",
+    "name": "next",
+    "memberof": "src/Iterator.js~Iterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Iterator.js~Iterator#next",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 76,
+    "kind": "method",
+    "name": "prev",
+    "memberof": "src/Iterator.js~Iterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Iterator.js~Iterator#prev",
+    "access": "public",
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "method",
+    "name": "value",
+    "memberof": "src/Iterator.js~Iterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Iterator.js~Iterator#value",
+    "access": "public",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 78,
+    "kind": "method",
+    "name": "reversed",
+    "memberof": "src/Iterator.js~Iterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Iterator.js~Iterator#reversed",
+    "access": "public",
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "method",
+    "name": "skip",
+    "memberof": "src/Iterator.js~Iterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Iterator.js~Iterator#skip",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "params": [
+      {
+        "name": "n",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "method",
+    "name": "rewind",
+    "memberof": "src/Iterator.js~Iterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Iterator.js~Iterator#rewind",
+    "access": "public",
+    "description": null,
+    "lineNumber": 34,
+    "undocument": true,
+    "params": [
+      {
+        "name": "n",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "file",
+    "name": "src/Node.js",
+    "content": "\nexport class Node {\n\n\tconstructor ( value ) {\n\t\tthis.next = null;\n\t\tthis.sibling = null;\n\t\tthis.value = value;\n\t}\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/src/Node.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 82,
+    "kind": "class",
+    "name": "Node",
+    "memberof": "src/Node.js",
+    "static": true,
+    "longname": "src/Node.js~Node",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-fliplist/src/Node.js",
+    "importStyle": "{Node}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 83,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/Node.js~Node",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/Node.js~Node#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true
+  },
+  {
+    "__docId__": 84,
+    "kind": "member",
+    "name": "next",
+    "memberof": "src/Node.js~Node",
+    "static": false,
+    "longname": "src/Node.js~Node#next",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "member",
+    "name": "sibling",
+    "memberof": "src/Node.js~Node",
+    "static": false,
+    "longname": "src/Node.js~Node#sibling",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 86,
+    "kind": "member",
+    "name": "value",
+    "memberof": "src/Node.js~Node",
+    "static": false,
+    "longname": "src/Node.js~Node#value",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 87,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "import FlipList from './FlipList' ;\nimport Node from './Node' ;\nimport Iterator from './Iterator' ;\n\nexport default FlipList ;\n\nexport {\n\tFlipList ,\n\tNode ,\n\tIterator ,\n} ;\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 88,
+    "kind": "file",
+    "name": "src/old/Direction.js",
+    "content": "\nexport class Direction {\n\n\tconstructor ( reversed ) {\n\t\tthis.reversed = reversed;\n\t}\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/src/old/Direction.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 89,
+    "kind": "class",
+    "name": "Direction",
+    "memberof": "src/old/Direction.js",
+    "static": true,
+    "longname": "src/old/Direction.js~Direction",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-fliplist/src/old/Direction.js",
+    "importStyle": "{Direction}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 90,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/old/Direction.js~Direction",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/Direction.js~Direction#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true
+  },
+  {
+    "__docId__": 91,
+    "kind": "member",
+    "name": "reversed",
+    "memberof": "src/old/Direction.js~Direction",
+    "static": false,
+    "longname": "src/old/Direction.js~Direction#reversed",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "file",
+    "name": "src/old/EndpointIterator.js",
+    "content": "\nexport class HeadIterator {\n\n\tconstructor (direction, validity, node, value, done) {\n\t\tthis.direction = direction;\n\t\tthis.node = node;\n\t\tthis.value = value;\n\t\tthis.done = done;\n\t\tthis.validity = validity;\n\t}\n\n\tvalid () {\n\t\treturn this.validity.valid;\n\t}\n\n\tnext () {\n\t\tif (this.direction.reversed) {\n\t\t\tif (this.node.bw === null) {\n\t\t\t\treturn { done : true } ;\n\t\t\t}\n\t\t\telse {\n\t\t\t\treturn new InternalIterator(this.direction, this.previous)\n\t\t\t}\n\t\t\tif (this.node.fw === null) {\n\t\t\t\treturn { done : true } ;\n\t\t\t}\n\t\t\treturn new Iterator(this.direction, this.validity, this.node.fw, this.node.value, this.node.fw === null);\n\t\t}\n\t\telse {\n\t\t\treturn new Iterator(this.direction, this.validity, this.node.bw, this.node.value, this.node.bw === null);\n\t\t}\n\t}\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/src/old/EndpointIterator.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 93,
+    "kind": "class",
+    "name": "HeadIterator",
+    "memberof": "src/old/EndpointIterator.js",
+    "static": true,
+    "longname": "src/old/EndpointIterator.js~HeadIterator",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-fliplist/src/old/EndpointIterator.js",
+    "importStyle": "{HeadIterator}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 94,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/old/EndpointIterator.js~HeadIterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/EndpointIterator.js~HeadIterator#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true
+  },
+  {
+    "__docId__": 95,
+    "kind": "member",
+    "name": "direction",
+    "memberof": "src/old/EndpointIterator.js~HeadIterator",
+    "static": false,
+    "longname": "src/old/EndpointIterator.js~HeadIterator#direction",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 96,
+    "kind": "member",
+    "name": "node",
+    "memberof": "src/old/EndpointIterator.js~HeadIterator",
+    "static": false,
+    "longname": "src/old/EndpointIterator.js~HeadIterator#node",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 97,
+    "kind": "member",
+    "name": "value",
+    "memberof": "src/old/EndpointIterator.js~HeadIterator",
+    "static": false,
+    "longname": "src/old/EndpointIterator.js~HeadIterator#value",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 98,
+    "kind": "member",
+    "name": "done",
+    "memberof": "src/old/EndpointIterator.js~HeadIterator",
+    "static": false,
+    "longname": "src/old/EndpointIterator.js~HeadIterator#done",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 99,
+    "kind": "member",
+    "name": "validity",
+    "memberof": "src/old/EndpointIterator.js~HeadIterator",
+    "static": false,
+    "longname": "src/old/EndpointIterator.js~HeadIterator#validity",
+    "access": "public",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 100,
+    "kind": "method",
+    "name": "valid",
+    "memberof": "src/old/EndpointIterator.js~HeadIterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/EndpointIterator.js~HeadIterator#valid",
+    "access": "public",
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 101,
+    "kind": "method",
+    "name": "next",
+    "memberof": "src/old/EndpointIterator.js~HeadIterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/EndpointIterator.js~HeadIterator#next",
+    "access": "public",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 102,
+    "kind": "file",
+    "name": "src/old/FlipList.js",
+    "content": "// when traversing a node, make it valid again and update direction\n// or use union find ds\n\nimport { Node } from './Node' ;\nimport { ValidityToken } from './ValidityToken' ;\nimport { Direction } from './Direction' ;\n\nexport class FlipList {\n\n\tconstructor () {\n\n\t\tthis.head = new Node(null, null, null);\n\t\tthis.tail = new Node(this.head, null, null);\n\t\tthis.head.fw = this.tail;\n\n\t\tthis.fd = new Direction(false);\n\t\tthis.bd = new Direction(true);\n\t\tthis.validity = new ValidityToken(true);\n\n\t}\n\n\tfirst ( ) {\n\t\treturn this.head.bw !== null ? this.head.bw : this.head.fw ;\n\t}\n\n\tlast ( ) {\n\t\treturn this.tail.bw !== null ? this.tail.bw : this.tail.fw ;\n\t}\n\n\tbegin ( ) {\n\t\treturn new Iterator(this, this.head, null, false);\n\t}\n\n\tend ( ) {\n\t\treturn new Iterator(this, this.tail, null, false);\n\t}\n\n\trbegin ( ) {\n\t\treturn new ReverseIterator(this, this.tail, null, false);\n\t}\n\n\trend ( ) {\n\t\treturn new ReverseIterator(this, this.head, null, false);\n\t}\n\n\t// assert valid\n\tinsert_before (node, value) {\n\n\t}\n\n\t// assert valid\n\tinsert_after (node, value) {\n\n\t}\n\n\tappend (value) {\n\n\t\tconst last = this.last();\n\t\tconst tail = this.tail;\n\t\tconst node = new Node(last, tail, value);\n\n\t\tif (last.bw === tail) last.bw = node;\n\t\telse last.fw = node;\n\n\t\tif (tail.bw !== null) tail.bw = node;\n\t\telse tail.fw = node;\n\n\t\treturn node;\n\n\t}\n\n\tprepend (value) {\n\n\t\tconst first = this.first();\n\t\tconst head = this.head;\n\t\tconst node = new Node(head, first, value);\n\n\t\tif (first.bw === head) first.bw = node;\n\t\telse first.fw = node;\n\n\t\tif (head.bw !== null) head.bw = node;\n\t\telse head.fw = node;\n\n\t\treturn node;\n\n\t}\n\n\textend (other) {\n\n\t\t// invalidate all iterators to nodes in other list\n\t\tother.valid = false;\n\n\t\t// compute last element of this === previous of this.tail\n\t\tconst thislast = this.last() ;\n\t\t// compute first element of other === next of other.head\n\t\tconst otherfirst = other.first() ;\n\t\t// compute last element of other === previous of other.tail\n\t\tconst otherlast = other.last() ;\n\n\t\t// make thislast next point to otherfirst\n\t\tif (thislast.bw === this.tail) thislast.bw = otherfirst;\n\t\telse thislast.fw = otherfirst;\n\n\t\t// make otherfirst prev point to thislast\n\t\tif (otherfirst.bw === other.head) otherfirst.bw = thislast;\n\t\telse otherfirst.fw = thislast;\n\n\t\t// make this.tail prev point to otherlast\n\t\tif (this.tail.bw !== null) this.tail.bw = otherlast;\n\t\telse this.tail.fw = otherlast;\n\n\t\t// make otherlast next point to this.tail\n\t\tif (otherlast.bw === other.tail) otherlast.bw = this.tail;\n\t\telse otherlast.fw = this.tail;\n\n\t}\n\n\treverse () {\n\n\t\t// reverse head and tail pointers\n\t\tconst head = this.head;\n\t\tthis.head = this.tail;\n\t\tthis.tail = head;\n\n\t\t// reverse iterator directions\n\t\tthis.reversed = !this.reversed;\n\n\t}\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/src/old/FlipList.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 103,
+    "kind": "class",
+    "name": "FlipList",
+    "memberof": "src/old/FlipList.js",
+    "static": true,
+    "longname": "src/old/FlipList.js~FlipList",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-fliplist/src/old/FlipList.js",
+    "importStyle": "{FlipList}",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 104,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true
+  },
+  {
+    "__docId__": 105,
+    "kind": "member",
+    "name": "head",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#head",
+    "access": "public",
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 106,
+    "kind": "member",
+    "name": "tail",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#tail",
+    "access": "public",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 107,
+    "kind": "member",
+    "name": "fd",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#fd",
+    "access": "public",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 108,
+    "kind": "member",
+    "name": "bd",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#bd",
+    "access": "public",
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 109,
+    "kind": "member",
+    "name": "validity",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#validity",
+    "access": "public",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 110,
+    "kind": "method",
+    "name": "first",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#first",
+    "access": "public",
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 111,
+    "kind": "method",
+    "name": "last",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#last",
+    "access": "public",
+    "description": null,
+    "lineNumber": 26,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 112,
+    "kind": "method",
+    "name": "begin",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#begin",
+    "access": "public",
+    "description": null,
+    "lineNumber": 30,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 113,
+    "kind": "method",
+    "name": "end",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#end",
+    "access": "public",
+    "description": null,
+    "lineNumber": 34,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 114,
+    "kind": "method",
+    "name": "rbegin",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#rbegin",
+    "access": "public",
+    "description": null,
+    "lineNumber": 38,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 115,
+    "kind": "method",
+    "name": "rend",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#rend",
+    "access": "public",
+    "description": null,
+    "lineNumber": 42,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 116,
+    "kind": "method",
+    "name": "insert_before",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#insert_before",
+    "access": "public",
+    "description": null,
+    "lineNumber": 47,
+    "undocument": true,
+    "params": [
+      {
+        "name": "node",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 117,
+    "kind": "method",
+    "name": "insert_after",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#insert_after",
+    "access": "public",
+    "description": null,
+    "lineNumber": 52,
+    "undocument": true,
+    "params": [
+      {
+        "name": "node",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 118,
+    "kind": "method",
+    "name": "append",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#append",
+    "access": "public",
+    "description": null,
+    "lineNumber": 56,
+    "undocument": true,
+    "params": [
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 119,
+    "kind": "method",
+    "name": "prepend",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#prepend",
+    "access": "public",
+    "description": null,
+    "lineNumber": 72,
+    "undocument": true,
+    "params": [
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 120,
+    "kind": "method",
+    "name": "extend",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#extend",
+    "access": "public",
+    "description": null,
+    "lineNumber": 88,
+    "undocument": true,
+    "params": [
+      {
+        "name": "other",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 121,
+    "kind": "method",
+    "name": "reverse",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#reverse",
+    "access": "public",
+    "description": null,
+    "lineNumber": 118,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 124,
+    "kind": "member",
+    "name": "reversed",
+    "memberof": "src/old/FlipList.js~FlipList",
+    "static": false,
+    "longname": "src/old/FlipList.js~FlipList#reversed",
+    "access": "public",
+    "description": null,
+    "lineNumber": 126,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 125,
+    "kind": "file",
+    "name": "src/old/InternalIterator.js",
+    "content": "\nexport class ReversibleInternalIterator {\n\n\tconstructor ( direction, validity, predecessor, successor, node ) {\n\t\tthis.direction = direction;\n\t\tthis.validity = validity;\n\t\tthis.pred = predecessor;\n\t\tthis.succ = successor;\n\t\tthis.node = node;\n\t\tthis.value = node.value;\n\t\tthis.done = (node.fw === null) || (node.bw === null);\n\t}\n\n\tvalid () {\n\t\treturn this.validity.valid;\n\t}\n\n\tnext () {\n\t\tif (this.direction.reversed) {\n\n\t\t\tif (this.pred === null) {\n\t\t\t\tconst pred = this.node.fw !== this.succ ? this.node.fw : this.node.bw;\n\t\t\t\treturn new ReversibleInternalIterator(this.direction, this.validity, null, this.node, pred);\n\t\t\t}\n\n\t\t\telse {\n\t\t\t\treturn new ReversibleInternalIterator(this.direction, this.validity, null, this.node, this.pred);\n\t\t\t}\n\n\t\t}\n\n\t\telse {\n\t\t\tif (this.succ === null) {\n\t\t\t\tconst succ = this.node.fw !== this.pred ? this.node.fw : this.node.bw;\n\t\t\t\treturn new ReversibleInternalIterator(this.direction, this.validity, this.node, null, succ);\n\t\t\t}\n\n\t\t\telse {\n\t\t\t\treturn new ReversibleInternalIterator(this.direction, this.validity, this.node, null, this.succ);\n\t\t\t}\n\t\t}\n\t}\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/src/old/InternalIterator.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 126,
+    "kind": "class",
+    "name": "ReversibleInternalIterator",
+    "memberof": "src/old/InternalIterator.js",
+    "static": true,
+    "longname": "src/old/InternalIterator.js~ReversibleInternalIterator",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-fliplist/src/old/InternalIterator.js",
+    "importStyle": "{ReversibleInternalIterator}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 127,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/old/InternalIterator.js~ReversibleInternalIterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/InternalIterator.js~ReversibleInternalIterator#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true
+  },
+  {
+    "__docId__": 128,
+    "kind": "member",
+    "name": "direction",
+    "memberof": "src/old/InternalIterator.js~ReversibleInternalIterator",
+    "static": false,
+    "longname": "src/old/InternalIterator.js~ReversibleInternalIterator#direction",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 129,
+    "kind": "member",
+    "name": "validity",
+    "memberof": "src/old/InternalIterator.js~ReversibleInternalIterator",
+    "static": false,
+    "longname": "src/old/InternalIterator.js~ReversibleInternalIterator#validity",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 130,
+    "kind": "member",
+    "name": "pred",
+    "memberof": "src/old/InternalIterator.js~ReversibleInternalIterator",
+    "static": false,
+    "longname": "src/old/InternalIterator.js~ReversibleInternalIterator#pred",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 131,
+    "kind": "member",
+    "name": "succ",
+    "memberof": "src/old/InternalIterator.js~ReversibleInternalIterator",
+    "static": false,
+    "longname": "src/old/InternalIterator.js~ReversibleInternalIterator#succ",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 132,
+    "kind": "member",
+    "name": "node",
+    "memberof": "src/old/InternalIterator.js~ReversibleInternalIterator",
+    "static": false,
+    "longname": "src/old/InternalIterator.js~ReversibleInternalIterator#node",
+    "access": "public",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 133,
+    "kind": "member",
+    "name": "value",
+    "memberof": "src/old/InternalIterator.js~ReversibleInternalIterator",
+    "static": false,
+    "longname": "src/old/InternalIterator.js~ReversibleInternalIterator#value",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 134,
+    "kind": "member",
+    "name": "done",
+    "memberof": "src/old/InternalIterator.js~ReversibleInternalIterator",
+    "static": false,
+    "longname": "src/old/InternalIterator.js~ReversibleInternalIterator#done",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 135,
+    "kind": "method",
+    "name": "valid",
+    "memberof": "src/old/InternalIterator.js~ReversibleInternalIterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/InternalIterator.js~ReversibleInternalIterator#valid",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 136,
+    "kind": "method",
+    "name": "next",
+    "memberof": "src/old/InternalIterator.js~ReversibleInternalIterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/InternalIterator.js~ReversibleInternalIterator#next",
+    "access": "public",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 137,
+    "kind": "file",
+    "name": "src/old/Iterator2.js",
+    "content": "\nexport class Iterator2 {\n\n\tconstructor (prev, node, value, done) {\n\t\tthis.direction = direction;\n\t\tthis.node = node;\n\t\tthis.value = value;\n\t\tthis.done = done;\n\t}\n\n\tnext (){\n\t\tif (this.node.ying === this.prev) {\n\t\t\treturn new Iterator2(this.node, this.node.yang, this.node.value, this.node.yang === null);\n\t\t}\n\t\telse {\n\t\t\treturn new Iterator2(this.node, this.node.ying, this.node.value, this.node.ying === null);\n\t\t}\n\t}\n\n\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/src/old/Iterator2.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 138,
+    "kind": "class",
+    "name": "Iterator2",
+    "memberof": "src/old/Iterator2.js",
+    "static": true,
+    "longname": "src/old/Iterator2.js~Iterator2",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-fliplist/src/old/Iterator2.js",
+    "importStyle": "{Iterator2}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 139,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/old/Iterator2.js~Iterator2",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/Iterator2.js~Iterator2#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true
+  },
+  {
+    "__docId__": 140,
+    "kind": "member",
+    "name": "direction",
+    "memberof": "src/old/Iterator2.js~Iterator2",
+    "static": false,
+    "longname": "src/old/Iterator2.js~Iterator2#direction",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 141,
+    "kind": "member",
+    "name": "node",
+    "memberof": "src/old/Iterator2.js~Iterator2",
+    "static": false,
+    "longname": "src/old/Iterator2.js~Iterator2#node",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 142,
+    "kind": "member",
+    "name": "value",
+    "memberof": "src/old/Iterator2.js~Iterator2",
+    "static": false,
+    "longname": "src/old/Iterator2.js~Iterator2#value",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 143,
+    "kind": "member",
+    "name": "done",
+    "memberof": "src/old/Iterator2.js~Iterator2",
+    "static": false,
+    "longname": "src/old/Iterator2.js~Iterator2#done",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 144,
+    "kind": "method",
+    "name": "next",
+    "memberof": "src/old/Iterator2.js~Iterator2",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/Iterator2.js~Iterator2#next",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 145,
+    "kind": "file",
+    "name": "src/old/Iterator3.js",
+    "content": "\nexport class Iterator {\n\n\tconstructor (direction, node, value, done) {\n\t\tthis.direction = direction;\n\t\tthis.node = node;\n\t\tthis.value = value;\n\t\tthis.done = done;\n\t}\n\n\tnext (){\n\t\tif (this.direction.value === 0) {\n\t\t\treturn new Iterator(this.direction, this.node.yang, this.node.value, this.node.yang === null);\n\t\t}\n\t\telse {\n\t\t\treturn new Iterator(this.direction, this.node.ying, this.node.value, this.node.ying === null);\n\t\t}\n\t}\n\n\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/src/old/Iterator3.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 146,
+    "kind": "class",
+    "name": "Iterator",
+    "memberof": "src/old/Iterator3.js",
+    "static": true,
+    "longname": "src/old/Iterator3.js~Iterator",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-fliplist/src/old/Iterator3.js",
+    "importStyle": "{Iterator}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 147,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/old/Iterator3.js~Iterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/Iterator3.js~Iterator#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true
+  },
+  {
+    "__docId__": 148,
+    "kind": "member",
+    "name": "direction",
+    "memberof": "src/old/Iterator3.js~Iterator",
+    "static": false,
+    "longname": "src/old/Iterator3.js~Iterator#direction",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 149,
+    "kind": "member",
+    "name": "node",
+    "memberof": "src/old/Iterator3.js~Iterator",
+    "static": false,
+    "longname": "src/old/Iterator3.js~Iterator#node",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 150,
+    "kind": "member",
+    "name": "value",
+    "memberof": "src/old/Iterator3.js~Iterator",
+    "static": false,
+    "longname": "src/old/Iterator3.js~Iterator#value",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 151,
+    "kind": "member",
+    "name": "done",
+    "memberof": "src/old/Iterator3.js~Iterator",
+    "static": false,
+    "longname": "src/old/Iterator3.js~Iterator#done",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 152,
+    "kind": "method",
+    "name": "next",
+    "memberof": "src/old/Iterator3.js~Iterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/Iterator3.js~Iterator#next",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 153,
+    "kind": "file",
+    "name": "src/old/Node.js",
+    "content": "\nexport class Node {\n\n\tconstructor (left, right, value){\n\t\tthis.fw = left;\n\t\tthis.bw = right;\n\t\tthis.value = value;\n\t}\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/src/old/Node.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 154,
+    "kind": "class",
+    "name": "Node",
+    "memberof": "src/old/Node.js",
+    "static": true,
+    "longname": "src/old/Node.js~Node",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-fliplist/src/old/Node.js",
+    "importStyle": "{Node}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 155,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/old/Node.js~Node",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/Node.js~Node#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true
+  },
+  {
+    "__docId__": 156,
+    "kind": "member",
+    "name": "fw",
+    "memberof": "src/old/Node.js~Node",
+    "static": false,
+    "longname": "src/old/Node.js~Node#fw",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 157,
+    "kind": "member",
+    "name": "bw",
+    "memberof": "src/old/Node.js~Node",
+    "static": false,
+    "longname": "src/old/Node.js~Node#bw",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 158,
+    "kind": "member",
+    "name": "value",
+    "memberof": "src/old/Node.js~Node",
+    "static": false,
+    "longname": "src/old/Node.js~Node#value",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 159,
+    "kind": "file",
+    "name": "src/old/ReverseIterator.js",
+    "content": "\nexport class ReverseIterator {\n\n\tconstructor (parent, node, value, done) {\n\t\tthis.parent = parent;\n\t\tthis.current = current;\n\t\tthis.value = value;\n\t\tthis.done = done;\n\t}\n\n\tvalid (){\n\t\treturn this.parent.valid;\n\t}\n\n\tnext (){\n\t\tif (this.parent.reversed) {\n\t\t\treturn new ReverseIterator(this.parent, this.node.yang, this.node.value, this.node.yang === null);\n\t\t}\n\t\telse {\n\t\t\treturn new ReverseIterator(this.parent, this.node.ying, this.node.value, this.node.ying === null);\n\t\t}\n\t}\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/src/old/ReverseIterator.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 160,
+    "kind": "class",
+    "name": "ReverseIterator",
+    "memberof": "src/old/ReverseIterator.js",
+    "static": true,
+    "longname": "src/old/ReverseIterator.js~ReverseIterator",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-fliplist/src/old/ReverseIterator.js",
+    "importStyle": "{ReverseIterator}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 161,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/old/ReverseIterator.js~ReverseIterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/ReverseIterator.js~ReverseIterator#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true
+  },
+  {
+    "__docId__": 162,
+    "kind": "member",
+    "name": "parent",
+    "memberof": "src/old/ReverseIterator.js~ReverseIterator",
+    "static": false,
+    "longname": "src/old/ReverseIterator.js~ReverseIterator#parent",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 163,
+    "kind": "member",
+    "name": "current",
+    "memberof": "src/old/ReverseIterator.js~ReverseIterator",
+    "static": false,
+    "longname": "src/old/ReverseIterator.js~ReverseIterator#current",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 164,
+    "kind": "member",
+    "name": "value",
+    "memberof": "src/old/ReverseIterator.js~ReverseIterator",
+    "static": false,
+    "longname": "src/old/ReverseIterator.js~ReverseIterator#value",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 165,
+    "kind": "member",
+    "name": "done",
+    "memberof": "src/old/ReverseIterator.js~ReverseIterator",
+    "static": false,
+    "longname": "src/old/ReverseIterator.js~ReverseIterator#done",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 166,
+    "kind": "method",
+    "name": "valid",
+    "memberof": "src/old/ReverseIterator.js~ReverseIterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/ReverseIterator.js~ReverseIterator#valid",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 167,
+    "kind": "method",
+    "name": "next",
+    "memberof": "src/old/ReverseIterator.js~ReverseIterator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/ReverseIterator.js~ReverseIterator#next",
+    "access": "public",
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 168,
+    "kind": "file",
+    "name": "src/old/ValidityToken.js",
+    "content": "\nexport class ValidityToken {\n\n\tconstructor ( valid ) {\n\t\tthis.valid = valid;\n\t}\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/src/old/ValidityToken.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 169,
+    "kind": "class",
+    "name": "ValidityToken",
+    "memberof": "src/old/ValidityToken.js",
+    "static": true,
+    "longname": "src/old/ValidityToken.js~ValidityToken",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-fliplist/src/old/ValidityToken.js",
+    "importStyle": "{ValidityToken}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 170,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/old/ValidityToken.js~ValidityToken",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/old/ValidityToken.js~ValidityToken#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true
+  },
+  {
+    "__docId__": 171,
+    "kind": "member",
+    "name": "valid",
+    "memberof": "src/old/ValidityToken.js~ValidityToken",
+    "static": false,
+    "longname": "src/old/ValidityToken.js~ValidityToken#valid",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": "[@aureooms/js-fliplist](https://aureooms.github.io/js-fliplist)\n==\n\nFlip list data structure for JavaScript.\nSee [docs](https://aureooms.github.io/js-fliplist/index.html).\n\n```js\nconst a = new FlipList( range(10000) );\nconst b = new FlipList( range(1, 20001) );\nb.reverse();\na.extend(b);\na.reverse();\na.reversebetween(a.begin().next(), a.end().prev());\n[...a]; 1, 1, 2, ..., 9999, 20000, ..., 3, 2, 0\n```\n\n[![License](https://img.shields.io/github/license/aureooms/js-fliplist.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-fliplist/master/LICENSE)\n[![NPM version](https://img.shields.io/npm/v/@aureooms/js-fliplist.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-fliplist)\n[![Build status](https://img.shields.io/travis/aureooms/js-fliplist.svg?style=flat)](https://travis-ci.org/aureooms/js-fliplist)\n[![Coverage status](https://img.shields.io/coveralls/aureooms/js-fliplist.svg?style=flat)](https://coveralls.io/r/aureooms/js-fliplist)\n[![Dependencies status](https://img.shields.io/david/aureooms/js-fliplist.svg?style=flat)](https://david-dm.org/aureooms/js-fliplist#info=dependencies)\n[![Dev dependencies status](https://img.shields.io/david/dev/aureooms/js-fliplist.svg?style=flat)](https://david-dm.org/aureooms/js-fliplist#info=devDependencies)\n[![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-fliplist.svg?style=flat)](https://codeclimate.com/github/aureooms/js-fliplist)\n[![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-fliplist.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-fliplist)\n[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-fliplist.svg?style=flat)](https://github.com/aureooms/js-fliplist/issues)\n[![Documentation](https://aureooms.github.io/js-fliplist/badge.svg)](https://aureooms.github.io/js-fliplist/source.html)\n",
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@aureooms/js-fliplist\",\n  \"description\": \"Flip list data structure for JavaScript\",\n  \"version\": \"0.0.1\",\n  \"author\": \"aureooms\",\n  \"ava\": {\n    \"require\": [\n      \"babel-polyfill\",\n      \"babel-register\"\n    ]\n  },\n  \"babel\": {\n    \"presets\": [\n      \"env\"\n    ],\n    \"env\": {\n      \"development\": {\n        \"sourceMaps\": \"inline\"\n      }\n    }\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/aureooms/js-fliplist/issues\"\n  },\n  \"dependencies\": {},\n  \"devDependencies\": {\n    \"@aureooms/js-itertools\": \"^3.4.0\",\n    \"ava\": \"^0.23.0\",\n    \"babel-cli\": \"^6.26.0\",\n    \"babel-polyfill\": \"^6.26.0\",\n    \"babel-preset-env\": \"^1.6.1\",\n    \"codeclimate-test-reporter\": \"^0.5.0\",\n    \"coveralls\": \"^3.0.0\",\n    \"esdoc\": \"^1.0.4\",\n    \"esdoc-inject-script-plugin\": \"^1.0.0\",\n    \"esdoc-inject-style-plugin\": \"^1.0.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"nyc\": \"^11.3.0\"\n  },\n  \"homepage\": \"https://aureooms.github.io/js-fliplist\",\n  \"keywords\": [\n    \"delete\",\n    \"flip\",\n    \"insert\",\n    \"iterator\",\n    \"linked\",\n    \"list\",\n    \"merge\",\n    \"reverse\"\n  ],\n  \"license\": \"AGPL-3.0\",\n  \"main\": \"lib/index.js\",\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/aureooms/js-fliplist\"\n  },\n  \"scripts\": {\n    \"build\": \"rm -rf lib && babel src -d lib\",\n    \"cover\": \"nyc --reporter=lcov npm test\",\n    \"esdoc\": \"esdoc\",\n    \"prepublish\": \"npm run build\",\n    \"test\": \"ava ./test/src\"\n  }\n}\n",
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "Can be managed using\n[jspm](http://jspm.io)\nor [npm](https://github.com/npm/npm).\n\n### jspm\n```terminal\njspm install npm:@aureooms/js-fliplist\n```\n\n### npm\n```terminal\nnpm install @aureooms/js-fliplist --save\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "The code needs a ES2015+ polyfill to work, for example\n[babel-polyfill](https://babeljs.io/docs/usage/polyfill).\n```js\nrequire( 'babel-polyfill' ) ;\n// or\nimport 'babel-polyfill' ;\n```\n\nThen\n```js\nconst fliplist = require( '@aureooms/js-fliplist' ) ;\n// or\nimport fliplist from '@aureooms/js-fliplist' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/data-structures/list/js-fliplist/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "",
+    "static": true,
+    "access": "public"
+  }
+]
