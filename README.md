@@ -1,8 +1,8 @@
-[@aureooms/js-fliplist](https://aureooms.github.io/js-fliplist)
+[@aureooms/js-fliplist](https://make-github-pseudonymous-again.github.io/js-fliplist)
 ==
 
 Flip list data structure for JavaScript.
-See [docs](https://aureooms.github.io/js-fliplist/index.html).
+See [docs](https://make-github-pseudonymous-again.github.io/js-fliplist/index.html).
 
 ```js
 const a = new FlipList( range(10000) );
@@ -23,4 +23,4 @@ a.reversebetween(a.begin().next(), a.end().prev());
 [![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-fliplist.svg?style=flat)](https://codeclimate.com/github/aureooms/js-fliplist)
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-fliplist.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-fliplist)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-fliplist.svg?style=flat)](https://github.com/aureooms/js-fliplist/issues)
-[![Documentation](https://aureooms.github.io/js-fliplist/badge.svg)](https://aureooms.github.io/js-fliplist/source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-fliplist/badge.svg)](https://make-github-pseudonymous-again.github.io/js-fliplist/source.html)
